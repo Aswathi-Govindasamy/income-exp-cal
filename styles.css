@@ -1,4 +1,4 @@
-/* 📄 Page Style */
+/* Page Style */
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: #e3eeb2;
@@ -7,7 +7,7 @@ body {
   color: #332d56;
 }
 
-/* 🏷️ Heading */
+/* Heading */
 h1 {
   text-align: center;
   color: #332d56;
@@ -15,7 +15,7 @@ h1 {
   margin-bottom: 30px;
 }
 
-/* 💰 Totals Section */
+/* Totals Section */
 #totals {
   display: flex;
   justify-content: space-around;
@@ -29,7 +29,7 @@ h1 {
   box-shadow: 0 4px 10px rgba(51, 45, 86, 0.2);
 }
 
-/* 📝 Form Styling */
+/* Form Styling */
 form {
   background-color: #ffffff;
   padding: 20px;
@@ -50,7 +50,7 @@ select {
   border-radius: 6px;
 }
 
-/* 🔘 Buttons */
+/* Buttons */
 button {
   padding: 10px;
   font-size: 16px;
@@ -77,7 +77,7 @@ button[type="submit"]:hover {
   background-color: #cddc97;
 }
 
-/* 🔍 Filter Section */
+/* Filter Section */
 #filters {
   text-align: center;
   margin: 25px 0;
@@ -87,7 +87,7 @@ button[type="submit"]:hover {
   margin: 0 10px;
 }
 
-/* 📋 Table Styling */
+/* Table Styling */
 #entry-table {
   width: 90%;
   margin: auto;
@@ -110,7 +110,7 @@ button[type="submit"]:hover {
   border-bottom: 1px solid #eee;
 }
 
-/* ✏️ Action Buttons */
+/*  Action Buttons */
 #entry-table td button {
   padding: 6px 12px;
   margin: 0 4px;
